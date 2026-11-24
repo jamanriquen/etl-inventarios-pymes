@@ -1,0 +1,54 @@
+id_producto,nombre_producto,categoria,stock,precio_lista,id_proveedor
+P023,Cojín decorativo,Hogar,37,,PV05
+P028,Guantes de gimnasio,Deportes,160,30000,PV06
+P035,Panela x10,Alimentos,187,12000,PV01
+P016,Block de notas adhesivas,Papelería,151,5500,PV04
+P019,Lámpara de mesa,Hogar,52,42000,PV05
+P030,Pesas 5kg par,Deportes,21,90000,PV06
+P033,Café molido 500g,Alimentos,58,16500,PV01
+P031,Gorra deportiva,Deportes,88,25000,PV06
+P011,Caja de lapiceros x12,PAPELERÍA,74,12000,PV04
+P002,Cargador USB-C,Tecnología,179,32000,PV03
+P041,Shampoo 400ml,Belleza,50,,PV02
+P014,Calculadora científica,Papelería,99,,PV04
+P047,Desodorante,Belleza,134,9500,PV02
+P018,Set de ollas x5,Hogar,149,180000,PV05
+P010,Resma de papel carta,Papelería,121,18500,PV04
+P037,Aceite 1L,Alimentos,,13500,PV01
+P042,Crema corporal,Belleza,107,24000,PV02
+P021,Toalla de baño,Hogar,87,35000,PV05
+P038,Pasta x500g,Alimentos,189,4500,PV01
+P034,Chocolate de mesa,Alimentos,169,9500,PV01
+P045,Perfume 100ml,Belleza,130,98000,PV02
+P010,Resma de papel carta,Papelería,121,18500,PV04
+P003,Mouse inalámbrico,tecnología,92,45000,PV03
+P036,Arroz 5kg,Alimentos,14,21000,PV01
+P017,Juego de sábanas,Hogar,130,89000,PV05
+P022,Espejo decorativo,Hogar,157,65000,PV05
+P044,Jabón líquido,Belleza,63,12500,PV02
+P032,Medias deportivas x3,Deportes,48,,PV06
+P025,Balón de fútbol,Deportes,191,75000,PV06
+P006,Parlante portátil,Tecnología,71,95000,PV03
+P013,Carpeta oficio,Papelería,116,3500,PV04
+P046,Cepillo para cabello,Belleza,50,,PV02
+P001,Audífonos Bluetooth,Tecnología,102,85000,PV03
+P007,Cable HDMI,Tecnología,188,18000,PV03
+P012,Marcadores x6,Papelería,87,14000,PV04
+P001,Audífonos Bluetooth,Tecnología,102,85000,PV03
+P008,Power bank 10000mAh,Tecnología,,70000,PV03
+P026,Cuerda para saltar,Deportes,187,15000,PV06
+P039,Galletas surtidas,Alimentos,174,7000,PV02
+P043,Protector solar,Belleza,54,38000,PV02
+P027,Botilla deportiva,deportes ,20,20000,PV06
+P018,Set de ollas x5,Hogar,149,180000,PV05
+P009,Cuaderno 100 hojas,Papelería,102,6500,PV04
+P034,Chocolate de mesa,Alimentos,169,9500,PV01
+P015,Pegante en barra,Papelería,103,3000,PV04
+P029,Colchoneta yoga,Deportes,57,55000,PV06
+P040,Snacks variados,Alimentos,189,5500,PV02
+P024,Escoba y recogedor,Hogar,129,16000,PV05
+P020,Organizador plástico,Hogar,,28000,PV05
+P004,Teclado básico,Tecnología,14,60000,PV03
+P026,Cuerda para saltar,Deportes,187,15000,PV06
+P005,Memoria USB 64GB,Tecnología,106,,PV03
+P048,Labial,Belleza,20,15500,PV02

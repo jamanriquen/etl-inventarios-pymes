@@ -1,0 +1,143 @@
+id_venta,fecha,id_producto,cantidad,precio_venta,canal,total_venta,nombre_producto,categoria,stock,precio_lista,id_proveedor,requiere_verificacion,proveedor,ciudad,tiempo_entrega_dias
+V0140,2026-10-25,P040,1,5500.0,Web,5500.0,Snacks variados,Alimentos,189.0,5500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0004,2026-09-28,P038,1,4500.0,Tienda,4500.0,Pasta x500g,Alimentos,189.0,4500.0,PV01,False,Distribuidora Andina,Medellín,3
+V0026,2026-09-26,P014,6,60000.0,Web,360000.0,Calculadora científica,Papelería,99.0,36190.47619047619,PV04,True,Papelería Central,Bogotá,4
+V0103,2026-09-03,P035,3,12000.0,WhatsApp,36000.0,Panela x10,Alimentos,187.0,12000.0,PV01,False,Distribuidora Andina,Medellín,3
+V0016,2026-10-25,P006,2,95000.0,Tienda,190000.0,Parlante portátil,Tecnología,71.0,95000.0,PV03,False,TecnoSur,Cali,5
+V0052,2026-09-29,P034,1,9500.0,WhatsApp,9500.0,Chocolate de mesa,Alimentos,169.0,9500.0,PV01,False,Distribuidora Andina,Medellín,3
+V0149,2026-09-29,P036,2,21000.0,Web,42000.0,Arroz 5kg,Alimentos,14.0,21000.0,PV01,False,Distribuidora Andina,Medellín,3
+V0007,2026-09-29,P015,5,3000.0,Instagram,15000.0,Pegante en barra,Papelería,103.0,3000.0,PV04,False,Papelería Central,Bogotá,4
+V0042,2026-09-24,P010,2,18500.0,Tienda,37000.0,Resma de papel carta,Papelería,121.0,18500.0,PV04,False,Papelería Central,Bogotá,4
+V0068,2026-10-12,P004,5,60000.0,Tienda,300000.0,Teclado básico,Tecnología,14.0,60000.0,PV03,False,TecnoSur,Cali,5
+V0041,2026-10-24,P041,6,40000.0,WhatsApp,240000.0,Shampoo 400ml,Belleza,50.0,36190.47619047619,PV02,True,Importaciones Paisa,Medellín,2
+V0114,2026-10-23,P020,2,28000.0,WhatsApp,56000.0,Organizador plástico,Hogar,104.57777777777778,28000.0,PV05,True,Hogar y Más,Barranquilla,6
+V0078,2026-10-03,P004,1,60000.0,WhatsApp,60000.0,Teclado básico,Tecnología,14.0,60000.0,PV03,False,TecnoSur,Cali,5
+V0129,2026-09-19,P045,5,98000.0,WhatsApp,490000.0,Perfume 100ml,Belleza,130.0,98000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0039,2026-10-27,P047,6,9500.0,Instagram,57000.0,Desodorante,Belleza,134.0,9500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0043,2026-09-21,P039,4,7000.0,Tienda,28000.0,Galletas surtidas,Alimentos,174.0,7000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0032,2026-10-11,P010,2,18500.0,Web,37000.0,Resma de papel carta,Papelería,121.0,18500.0,PV04,False,Papelería Central,Bogotá,4
+V0093,2026-09-07,P043,2,38000.0,Instagram,76000.0,Protector solar,Belleza,54.0,38000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0118,2026-09-08,P002,3,32000.0,WhatsApp,96000.0,Cargador USB-C,Tecnología,179.0,32000.0,PV03,False,TecnoSur,Cali,5
+V0122,2026-10-28,P025,5,75000.0,WhatsApp,375000.0,Balón de fútbol,Deportes,191.0,75000.0,PV06,False,Deportes Express,Bogotá,3
+V0146,2026-10-06,P004,2,60000.0,Tienda,120000.0,Teclado básico,Tecnología,14.0,60000.0,PV03,False,TecnoSur,Cali,5
+V0059,2026-10-21,P016,4,5500.0,Web,22000.0,Block de notas adhesivas,Papelería,151.0,5500.0,PV04,False,Papelería Central,Bogotá,4
+V0073,2026-09-19,P030,4,90000.0,Web,360000.0,Pesas 5kg par,Deportes,21.0,90000.0,PV06,False,Deportes Express,Bogotá,3
+V0054,2026-10-06,P038,2,4500.0,WhatsApp,9000.0,Pasta x500g,Alimentos,189.0,4500.0,PV01,False,Distribuidora Andina,Medellín,3
+V0145,2026-10-22,P012,6,14000.0,Web,84000.0,Marcadores x6,Papelería,87.0,14000.0,PV04,False,Papelería Central,Bogotá,4
+V0110,2026-10-22,P027,6,20000.0,WhatsApp,120000.0,Botilla deportiva,Deportes,20.0,20000.0,PV06,False,Deportes Express,Bogotá,3
+V0005,2026-09-14,P006,2,95000.0,Tienda,190000.0,Parlante portátil,Tecnología,71.0,95000.0,PV03,False,TecnoSur,Cali,5
+V0133,2026-09-14,P019,4,42000.0,Instagram,168000.0,Lámpara de mesa,Hogar,52.0,42000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0013,2026-09-06,P025,5,75000.0,Instagram,375000.0,Balón de fútbol,Deportes,191.0,75000.0,PV06,False,Deportes Express,Bogotá,3
+V0015,2026-10-13,P003,2,45000.0,Instagram,90000.0,Mouse inalámbrico,Tecnología,92.0,45000.0,PV03,False,TecnoSur,Cali,5
+V0025,2026-10-27,P037,6,13500.0,Instagram,81000.0,Aceite 1L,Alimentos,104.57777777777778,13500.0,PV01,True,Distribuidora Andina,Medellín,3
+V0084,2026-09-17,P016,4,5500.0,WhatsApp,22000.0,Block de notas adhesivas,Papelería,151.0,5500.0,PV04,False,Papelería Central,Bogotá,4
+V0150,2026-09-17,P029,2,55000.0,Instagram,110000.0,Colchoneta yoga,Deportes,57.0,55000.0,PV06,False,Deportes Express,Bogotá,3
+V0009,2026-09-18,P022,2,65000.0,WhatsApp,130000.0,Espejo decorativo,Hogar,157.0,65000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0028,2026-10-06,P048,5,15500.0,Instagram,77500.0,Labial,Belleza,20.0,15500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0089,2026-10-27,P023,2,10000.0,Instagram,20000.0,Cojín decorativo,Hogar,37.0,36190.47619047619,PV05,True,Hogar y Más,Barranquilla,6
+V0044,2026-10-30,P008,3,70000.0,Instagram,210000.0,Power bank 10000mAh,Tecnología,104.57777777777778,70000.0,PV03,True,TecnoSur,Cali,5
+V0074,2026-09-13,P010,3,18500.0,WhatsApp,55500.0,Resma de papel carta,Papelería,121.0,18500.0,PV04,False,Papelería Central,Bogotá,4
+V0071,2026-10-28,P026,1,15000.0,WhatsApp,15000.0,Cuerda para saltar,Deportes,187.0,15000.0,PV06,False,Deportes Express,Bogotá,3
+V0085,2026-10-12,P043,3,38000.0,Web,114000.0,Protector solar,Belleza,54.0,38000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0023,2026-10-23,P015,1,3000.0,Instagram,3000.0,Pegante en barra,Papelería,103.0,3000.0,PV04,False,Papelería Central,Bogotá,4
+V0018,2026-09-24,P011,3,12000.0,WhatsApp,36000.0,Caja de lapiceros x12,Papelería,74.0,12000.0,PV04,False,Papelería Central,Bogotá,4
+V0126,2026-09-21,P040,6,5500.0,Tienda,33000.0,Snacks variados,Alimentos,189.0,5500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0069,2026-10-30,P006,2,95000.0,WhatsApp,190000.0,Parlante portátil,Tecnología,71.0,95000.0,PV03,False,TecnoSur,Cali,5
+V0024,2026-09-18,P026,1,15000.0,WhatsApp,15000.0,Cuerda para saltar,Deportes,187.0,15000.0,PV06,False,Deportes Express,Bogotá,3
+V0137,2026-10-23,P006,2,95000.0,Instagram,190000.0,Parlante portátil,Tecnología,71.0,95000.0,PV03,False,TecnoSur,Cali,5
+V0138,2026-10-22,P015,2,3000.0,WhatsApp,6000.0,Pegante en barra,Papelería,103.0,3000.0,PV04,False,Papelería Central,Bogotá,4
+V0087,2026-10-10,P030,5,90000.0,Tienda,450000.0,Pesas 5kg par,Deportes,21.0,90000.0,PV06,False,Deportes Express,Bogotá,3
+V0058,2026-10-17,P014,5,25000.0,Web,125000.0,Calculadora científica,Papelería,99.0,36190.47619047619,PV04,True,Papelería Central,Bogotá,4
+V0046,2026-10-17,P006,4,95000.0,Tienda,380000.0,Parlante portátil,Tecnología,71.0,95000.0,PV03,False,TecnoSur,Cali,5
+V0036,2026-10-27,P044,5,12500.0,Instagram,62500.0,Jabón líquido,Belleza,63.0,12500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0116,2026-09-18,P022,1,65000.0,Instagram,65000.0,Espejo decorativo,Hogar,157.0,65000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0051,2026-10-12,P043,3,38000.0,Web,114000.0,Protector solar,Belleza,54.0,38000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0125,2026-09-28,P024,1,16000.0,Instagram,16000.0,Escoba y recogedor,Hogar,129.0,16000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0035,2026-10-26,P036,1,21000.0,Tienda,21000.0,Arroz 5kg,Alimentos,14.0,21000.0,PV01,False,Distribuidora Andina,Medellín,3
+V0077,2026-10-01,P038,5,4500.0,WhatsApp,22500.0,Pasta x500g,Alimentos,189.0,4500.0,PV01,False,Distribuidora Andina,Medellín,3
+V0097,2026-10-02,P033,3,16500.0,Tienda,49500.0,Café molido 500g,Alimentos,58.0,16500.0,PV01,False,Distribuidora Andina,Medellín,3
+V0020,2026-10-11,P039,2,7000.0,WhatsApp,14000.0,Galletas surtidas,Alimentos,174.0,7000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0099,2026-09-01,P003,3,45000.0,WhatsApp,135000.0,Mouse inalámbrico,Tecnología,92.0,45000.0,PV03,False,TecnoSur,Cali,5
+V0066,2026-09-18,P012,4,14000.0,WhatsApp,56000.0,Marcadores x6,Papelería,87.0,14000.0,PV04,False,Papelería Central,Bogotá,4
+V0083,2026-09-14,P017,6,89000.0,Instagram,534000.0,Juego de sábanas,Hogar,130.0,89000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0011,2026-09-23,P007,3,18000.0,Instagram,54000.0,Cable HDMI,Tecnología,188.0,18000.0,PV03,False,TecnoSur,Cali,5
+V0012,2026-10-17,P003,4,45000.0,Tienda,180000.0,Mouse inalámbrico,Tecnología,92.0,45000.0,PV03,False,TecnoSur,Cali,5
+V0147,2026-09-09,P030,4,90000.0,Instagram,360000.0,Pesas 5kg par,Deportes,21.0,90000.0,PV06,False,Deportes Express,Bogotá,3
+V0141,2026-10-27,P027,6,20000.0,WhatsApp,120000.0,Botilla deportiva,Deportes,20.0,20000.0,PV06,False,Deportes Express,Bogotá,3
+V0088,2026-10-03,P005,3,25000.0,WhatsApp,75000.0,Memoria USB 64GB,Tecnología,106.0,36190.47619047619,PV03,True,TecnoSur,Cali,5
+V0010,2026-09-07,P022,1,65000.0,Web,65000.0,Espejo decorativo,Hogar,157.0,65000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0144,2026-10-20,P007,4,18000.0,WhatsApp,72000.0,Cable HDMI,Tecnología,188.0,18000.0,PV03,False,TecnoSur,Cali,5
+V0135,2026-10-01,P033,6,16500.0,WhatsApp,99000.0,Café molido 500g,Alimentos,58.0,16500.0,PV01,False,Distribuidora Andina,Medellín,3
+V0030,2026-09-15,P024,2,16000.0,Web,32000.0,Escoba y recogedor,Hogar,129.0,16000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0040,2026-10-19,P033,2,16500.0,Tienda,33000.0,Café molido 500g,Alimentos,58.0,16500.0,PV01,False,Distribuidora Andina,Medellín,3
+V0136,2026-09-06,P043,3,38000.0,Instagram,114000.0,Protector solar,Belleza,54.0,38000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0123,2026-09-03,P017,6,89000.0,Web,534000.0,Juego de sábanas,Hogar,130.0,89000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0119,2026-09-17,P038,1,4500.0,Tienda,4500.0,Pasta x500g,Alimentos,189.0,4500.0,PV01,False,Distribuidora Andina,Medellín,3
+V0104,2026-09-09,P028,1,30000.0,Instagram,30000.0,Guantes de gimnasio,Deportes,160.0,30000.0,PV06,False,Deportes Express,Bogotá,3
+V0060,2026-09-07,P013,1,3500.0,Web,3500.0,Carpeta oficio,Papelería,116.0,3500.0,PV04,False,Papelería Central,Bogotá,4
+V0090,2026-09-11,P019,4,42000.0,Instagram,168000.0,Lámpara de mesa,Hogar,52.0,42000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0045,2026-09-04,P016,2,5500.0,Tienda,11000.0,Block de notas adhesivas,Papelería,151.0,5500.0,PV04,False,Papelería Central,Bogotá,4
+V0037,2026-09-22,P042,1,24000.0,Instagram,24000.0,Crema corporal,Belleza,107.0,24000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0142,2026-10-02,P046,4,60000.0,WhatsApp,240000.0,Cepillo para cabello,Belleza,50.0,36190.47619047619,PV02,True,Importaciones Paisa,Medellín,2
+V0053,2026-09-05,P015,3,3000.0,Tienda,9000.0,Pegante en barra,Papelería,103.0,3000.0,PV04,False,Papelería Central,Bogotá,4
+V0134,2026-09-29,P030,4,90000.0,WhatsApp,360000.0,Pesas 5kg par,Deportes,21.0,90000.0,PV06,False,Deportes Express,Bogotá,3
+V0062,2026-10-12,P044,6,12500.0,Tienda,75000.0,Jabón líquido,Belleza,63.0,12500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0128,2026-09-27,P043,3,38000.0,Web,114000.0,Protector solar,Belleza,54.0,38000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0031,2026-10-19,P006,1,95000.0,Tienda,95000.0,Parlante portátil,Tecnología,71.0,95000.0,PV03,False,TecnoSur,Cali,5
+V0109,2026-09-02,P027,2,20000.0,Instagram,40000.0,Botilla deportiva,Deportes,20.0,20000.0,PV06,False,Deportes Express,Bogotá,3
+V0014,2026-10-07,P041,2,40000.0,Tienda,80000.0,Shampoo 400ml,Belleza,50.0,36190.47619047619,PV02,True,Importaciones Paisa,Medellín,2
+V0056,2026-09-05,P015,1,3000.0,Instagram,3000.0,Pegante en barra,Papelería,103.0,3000.0,PV04,False,Papelería Central,Bogotá,4
+V0076,2026-09-21,P048,1,15500.0,Tienda,15500.0,Labial,Belleza,20.0,15500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0115,2026-10-13,P002,2,32000.0,Web,64000.0,Cargador USB-C,Tecnología,179.0,32000.0,PV03,False,TecnoSur,Cali,5
+V0102,2026-09-05,P008,6,70000.0,WhatsApp,420000.0,Power bank 10000mAh,Tecnología,104.57777777777778,70000.0,PV03,True,TecnoSur,Cali,5
+V0033,2026-09-05,P039,4,7000.0,Web,28000.0,Galletas surtidas,Alimentos,174.0,7000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0017,2026-09-18,P025,4,75000.0,Instagram,300000.0,Balón de fútbol,Deportes,191.0,75000.0,PV06,False,Deportes Express,Bogotá,3
+V0092,2026-10-23,P043,5,38000.0,Instagram,190000.0,Protector solar,Belleza,54.0,38000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0100,2026-09-11,P041,6,40000.0,Web,240000.0,Shampoo 400ml,Belleza,50.0,36190.47619047619,PV02,True,Importaciones Paisa,Medellín,2
+V0101,2026-10-16,P036,4,21000.0,Tienda,84000.0,Arroz 5kg,Alimentos,14.0,21000.0,PV01,False,Distribuidora Andina,Medellín,3
+V0075,2026-10-08,P004,6,60000.0,Tienda,360000.0,Teclado básico,Tecnología,14.0,60000.0,PV03,False,TecnoSur,Cali,5
+V0086,2026-10-30,P021,1,35000.0,Tienda,35000.0,Toalla de baño,Hogar,87.0,35000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0002,2026-09-15,P016,2,5500.0,Tienda,11000.0,Block de notas adhesivas,Papelería,151.0,5500.0,PV04,False,Papelería Central,Bogotá,4
+V0131,2026-10-18,P044,2,12500.0,Instagram,25000.0,Jabón líquido,Belleza,63.0,12500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0047,2026-10-20,P035,2,12000.0,WhatsApp,24000.0,Panela x10,Alimentos,187.0,12000.0,PV01,False,Distribuidora Andina,Medellín,3
+V0113,2026-09-13,P015,4,3000.0,Instagram,12000.0,Pegante en barra,Papelería,103.0,3000.0,PV04,False,Papelería Central,Bogotá,4
+V0072,2026-09-01,P025,4,75000.0,Instagram,300000.0,Balón de fútbol,Deportes,191.0,75000.0,PV06,False,Deportes Express,Bogotá,3
+V0112,2026-10-26,P025,1,75000.0,Web,75000.0,Balón de fútbol,Deportes,191.0,75000.0,PV06,False,Deportes Express,Bogotá,3
+V0057,2026-09-18,P005,6,25000.0,Web,150000.0,Memoria USB 64GB,Tecnología,106.0,36190.47619047619,PV03,True,TecnoSur,Cali,5
+V0127,2026-10-28,P047,3,9500.0,Instagram,28500.0,Desodorante,Belleza,134.0,9500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0064,2026-09-16,P007,2,18000.0,WhatsApp,36000.0,Cable HDMI,Tecnología,188.0,18000.0,PV03,False,TecnoSur,Cali,5
+V0106,2026-10-13,P014,1,25000.0,Instagram,25000.0,Calculadora científica,Papelería,99.0,36190.47619047619,PV04,True,Papelería Central,Bogotá,4
+V0065,2026-09-29,P035,2,12000.0,Web,24000.0,Panela x10,Alimentos,187.0,12000.0,PV01,False,Distribuidora Andina,Medellín,3
+V0055,2026-09-05,P001,6,85000.0,Tienda,510000.0,Audífonos Bluetooth,Tecnología,102.0,85000.0,PV03,False,TecnoSur,Cali,5
+V0029,2026-10-08,P048,4,15500.0,Web,62000.0,Labial,Belleza,20.0,15500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0117,2026-10-14,P023,5,60000.0,Instagram,300000.0,Cojín decorativo,Hogar,37.0,36190.47619047619,PV05,True,Hogar y Más,Barranquilla,6
+V0079,2026-10-14,P005,2,10000.0,Web,20000.0,Memoria USB 64GB,Tecnología,106.0,36190.47619047619,PV03,True,TecnoSur,Cali,5
+V0050,2026-10-16,P014,3,25000.0,Web,75000.0,Calculadora científica,Papelería,99.0,36190.47619047619,PV04,True,Papelería Central,Bogotá,4
+V0095,2026-09-19,P018,5,180000.0,WhatsApp,900000.0,Set de ollas x5,Hogar,149.0,180000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0021,2026-09-30,P011,4,12000.0,Instagram,48000.0,Caja de lapiceros x12,Papelería,74.0,12000.0,PV04,False,Papelería Central,Bogotá,4
+V0038,2026-09-11,P028,4,30000.0,Tienda,120000.0,Guantes de gimnasio,Deportes,160.0,30000.0,PV06,False,Deportes Express,Bogotá,3
+V0049,2026-10-04,P017,5,89000.0,Web,445000.0,Juego de sábanas,Hogar,130.0,89000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0080,2026-10-31,P008,5,70000.0,WhatsApp,350000.0,Power bank 10000mAh,Tecnología,104.57777777777778,70000.0,PV03,True,TecnoSur,Cali,5
+V0124,2026-10-04,P001,5,85000.0,WhatsApp,425000.0,Audífonos Bluetooth,Tecnología,102.0,85000.0,PV03,False,TecnoSur,Cali,5
+V0008,2026-10-19,P001,2,85000.0,Web,170000.0,Audífonos Bluetooth,Tecnología,102.0,85000.0,PV03,False,TecnoSur,Cali,5
+V0098,2026-10-11,P006,4,95000.0,Instagram,380000.0,Parlante portátil,Tecnología,71.0,95000.0,PV03,False,TecnoSur,Cali,5
+V0111,2026-09-11,P018,6,180000.0,Tienda,1080000.0,Set de ollas x5,Hogar,149.0,180000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0105,2026-10-28,P024,1,16000.0,Instagram,16000.0,Escoba y recogedor,Hogar,129.0,16000.0,PV05,False,Hogar y Más,Barranquilla,6
+V0070,2026-10-02,P027,4,20000.0,WhatsApp,80000.0,Botilla deportiva,Deportes,20.0,20000.0,PV06,False,Deportes Express,Bogotá,3
+V0091,2026-10-22,P040,6,5500.0,Tienda,33000.0,Snacks variados,Alimentos,189.0,5500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0130,2026-09-27,P013,6,3500.0,Web,21000.0,Carpeta oficio,Papelería,116.0,3500.0,PV04,False,Papelería Central,Bogotá,4
+V0061,2026-09-27,P023,4,60000.0,Tienda,240000.0,Cojín decorativo,Hogar,37.0,36190.47619047619,PV05,True,Hogar y Más,Barranquilla,6
+V0003,2026-10-18,P044,5,12500.0,Tienda,62500.0,Jabón líquido,Belleza,63.0,12500.0,PV02,False,Importaciones Paisa,Medellín,2
+V0067,2026-10-22,P005,5,60000.0,Tienda,300000.0,Memoria USB 64GB,Tecnología,106.0,36190.47619047619,PV03,True,TecnoSur,Cali,5
+V0082,2026-10-13,P027,5,20000.0,Instagram,100000.0,Botilla deportiva,Deportes,20.0,20000.0,PV06,False,Deportes Express,Bogotá,3
+V0027,2026-09-17,P010,2,18500.0,WhatsApp,37000.0,Resma de papel carta,Papelería,121.0,18500.0,PV04,False,Papelería Central,Bogotá,4
+V0143,2026-10-12,P010,6,18500.0,Tienda,111000.0,Resma de papel carta,Papelería,121.0,18500.0,PV04,False,Papelería Central,Bogotá,4
+V0094,2026-10-27,P008,1,70000.0,WhatsApp,70000.0,Power bank 10000mAh,Tecnología,104.57777777777778,70000.0,PV03,True,TecnoSur,Cali,5
+V0120,2026-09-28,P039,3,7000.0,Instagram,21000.0,Galletas surtidas,Alimentos,174.0,7000.0,PV02,False,Importaciones Paisa,Medellín,2
+V0139,2026-09-03,P002,2,32000.0,Web,64000.0,Cargador USB-C,Tecnología,179.0,32000.0,PV03,False,TecnoSur,Cali,5
+V0108,2026-10-26,P016,2,5500.0,WhatsApp,11000.0,Block de notas adhesivas,Papelería,151.0,5500.0,PV04,False,Papelería Central,Bogotá,4
+V0148,2026-10-10,P029,6,55000.0,Web,330000.0,Colchoneta yoga,Deportes,57.0,55000.0,PV06,False,Deportes Express,Bogotá,3
+V0022,2026-10-14,P041,3,25000.0,Tienda,75000.0,Shampoo 400ml,Belleza,50.0,36190.47619047619,PV02,True,Importaciones Paisa,Medellín,2
+V0001,2026-09-02,P041,6,10000.0,Instagram,60000.0,Shampoo 400ml,Belleza,50.0,36190.47619047619,PV02,True,Importaciones Paisa,Medellín,2
+V0132,2026-10-06,P026,1,15000.0,Instagram,15000.0,Cuerda para saltar,Deportes,187.0,15000.0,PV06,False,Deportes Express,Bogotá,3
+V0107,2026-10-27,P036,4,21000.0,WhatsApp,84000.0,Arroz 5kg,Alimentos,14.0,21000.0,PV01,False,Distribuidora Andina,Medellín,3

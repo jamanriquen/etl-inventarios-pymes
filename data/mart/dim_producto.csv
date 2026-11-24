@@ -1,0 +1,49 @@
+id_producto,nombre_producto,categoria,stock,precio_lista,requiere_verificacion
+P001,Audífonos Bluetooth,Tecnología,102.0,85000.0,False
+P002,Cargador USB-C,Tecnología,179.0,32000.0,False
+P003,Mouse inalámbrico,Tecnología,92.0,45000.0,False
+P004,Teclado básico,Tecnología,14.0,60000.0,False
+P005,Memoria USB 64GB,Tecnología,106.0,36190.47619047619,True
+P006,Parlante portátil,Tecnología,71.0,95000.0,False
+P007,Cable HDMI,Tecnología,188.0,18000.0,False
+P008,Power bank 10000mAh,Tecnología,104.57777777777778,70000.0,True
+P009,Cuaderno 100 hojas,Papelería,102.0,6500.0,False
+P010,Resma de papel carta,Papelería,121.0,18500.0,False
+P011,Caja de lapiceros x12,Papelería,74.0,12000.0,False
+P012,Marcadores x6,Papelería,87.0,14000.0,False
+P013,Carpeta oficio,Papelería,116.0,3500.0,False
+P014,Calculadora científica,Papelería,99.0,36190.47619047619,True
+P015,Pegante en barra,Papelería,103.0,3000.0,False
+P016,Block de notas adhesivas,Papelería,151.0,5500.0,False
+P017,Juego de sábanas,Hogar,130.0,89000.0,False
+P018,Set de ollas x5,Hogar,149.0,180000.0,False
+P019,Lámpara de mesa,Hogar,52.0,42000.0,False
+P020,Organizador plástico,Hogar,104.57777777777778,28000.0,True
+P021,Toalla de baño,Hogar,87.0,35000.0,False
+P022,Espejo decorativo,Hogar,157.0,65000.0,False
+P023,Cojín decorativo,Hogar,37.0,36190.47619047619,True
+P024,Escoba y recogedor,Hogar,129.0,16000.0,False
+P025,Balón de fútbol,Deportes,191.0,75000.0,False
+P026,Cuerda para saltar,Deportes,187.0,15000.0,False
+P027,Botilla deportiva,Deportes,20.0,20000.0,False
+P028,Guantes de gimnasio,Deportes,160.0,30000.0,False
+P029,Colchoneta yoga,Deportes,57.0,55000.0,False
+P030,Pesas 5kg par,Deportes,21.0,90000.0,False
+P031,Gorra deportiva,Deportes,88.0,25000.0,False
+P032,Medias deportivas x3,Deportes,48.0,36190.47619047619,True
+P033,Café molido 500g,Alimentos,58.0,16500.0,False
+P034,Chocolate de mesa,Alimentos,169.0,9500.0,False
+P035,Panela x10,Alimentos,187.0,12000.0,False
+P036,Arroz 5kg,Alimentos,14.0,21000.0,False
+P037,Aceite 1L,Alimentos,104.57777777777778,13500.0,True
+P038,Pasta x500g,Alimentos,189.0,4500.0,False
+P039,Galletas surtidas,Alimentos,174.0,7000.0,False
+P040,Snacks variados,Alimentos,189.0,5500.0,False
+P041,Shampoo 400ml,Belleza,50.0,36190.47619047619,True
+P042,Crema corporal,Belleza,107.0,24000.0,False
+P043,Protector solar,Belleza,54.0,38000.0,False
+P044,Jabón líquido,Belleza,63.0,12500.0,False
+P045,Perfume 100ml,Belleza,130.0,98000.0,False
+P046,Cepillo para cabello,Belleza,50.0,36190.47619047619,True
+P047,Desodorante,Belleza,134.0,9500.0,False
+P048,Labial,Belleza,20.0,15500.0,False

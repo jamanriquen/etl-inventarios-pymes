@@ -1,0 +1,20 @@
+tabla,regla,motivo,id_venta,fecha,id_producto,cantidad,precio_venta,canal,nombre_producto,categoria,stock,precio_lista,id_proveedor
+ventas,R1,duplicado exacto,V0078,2026-10-03,P004,1.0,60000.0,WhatsApp,,,,,
+ventas,R1,duplicado exacto,V0004,2026-09-28,P038,1.0,4500.0,Tienda,,,,,
+ventas,R1,duplicado exacto,V0102,2026-09-05,P008,6.0,70000.0,WhatsApp,,,,,
+ventas,R1,duplicado exacto,V0026,2026-09-26,P014,6.0,60000.0,Web,,,,,
+ventas,R1,duplicado exacto,V0131,2026-10-18,P044,2.0,12500.0,Instagram,,,,,
+ventas,R1,duplicado exacto,V0051,2026-10-12,P043,3.0,38000.0,Web,,,,,
+inventario,R1,duplicado exacto,,,P010,,,,Resma de papel carta,Papelería,121.0,18500.0,PV04
+inventario,R1,duplicado exacto,,,P001,,,,Audífonos Bluetooth,Tecnología,102.0,85000.0,PV03
+inventario,R1,duplicado exacto,,,P018,,,,Set de ollas x5,Hogar,149.0,180000.0,PV05
+inventario,R1,duplicado exacto,,,P034,,,,Chocolate de mesa,Alimentos,169.0,9500.0,PV01
+inventario,R1,duplicado exacto,,,P026,,,,Cuerda para saltar,Deportes,187.0,15000.0,PV06
+ventas,R2,venta sin precio,V0121,2026-10-09,P028,5.0,,Tienda,,,,,
+ventas,R2,venta sin precio,V0048,2026-10-01,P043,5.0,,WhatsApp,,,,,
+ventas,R2,venta sin precio,V0006,2026-09-13,P036,6.0,,Web,,,,,
+ventas,R2,venta sin precio,V0096,2026-09-14,P046,6.0,,Instagram,,,,,
+ventas,R2,venta sin precio,V0081,2026-10-09,P038,1.0,,Tienda,,,,,
+ventas,R2,venta sin precio,V0019,2026-09-18,P043,6.0,,Tienda,,,,,
+ventas,R2,venta sin precio,V0034,2026-09-30,P039,5.0,,Instagram,,,,,
+ventas,R2,venta sin precio,V0063,2026-09-26,P004,6.0,,Instagram,,,,,
