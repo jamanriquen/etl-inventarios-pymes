@@ -1,0 +1,145 @@
+id_venta,id_producto,nombre_producto,proveedor,fecha,cantidad,precio_venta,canal,categoria,stock,precio_lista,id_proveedor,ciudad,tiempo_entrega_dias,total_venta
+string,string,string,string,time,continuous,continuous,Instagram Tienda Web WhatsApp,Alimentos Belleza Deportes Hogar Papelería Tecnología,continuous,continuous,PV01 PV02 PV03 PV04 PV05 PV06,Barranquilla Bogotá Cali Medellín,continuous,continuous
+meta,meta,meta,meta,,,,,,,,,,,
+V0140,P040,Snacks variados,Importaciones Paisa,2026-10-25,1,5500,Web,Alimentos,189,5500,PV02,Medellín,2,5500
+V0103,P035,Panela x10,Distribuidora Andina,2026-09-03,3,12000,WhatsApp,Alimentos,187,12000,PV01,Medellín,3,36000
+V0016,P006,Parlante portátil,TecnoSur,2026-10-25,2,95000,Tienda,Tecnología,71,95000,PV03,Cali,5,190000
+V0052,P034,Chocolate de mesa,Distribuidora Andina,2026-09-29,1,9500,WhatsApp,Alimentos,169,9500,PV01,Medellín,3,9500
+V0149,P036,Arroz 5kg,Distribuidora Andina,2026-09-29,2,21000,Web,Alimentos,14,21000,PV01,Medellín,3,42000
+V0007,P015,Pegante en barra,Papelería Central,2026-09-29,5,3000,Instagram,Papelería,103,3000,PV04,Bogotá,4,15000
+V0042,P010,Resma de papel carta,Papelería Central,2026-09-24,2,18500,Tienda,Papelería,121,18500,PV04,Bogotá,4,37000
+V0068,P004,Teclado básico,TecnoSur,2026-10-12,5,60000,Tienda,Tecnología,14,60000,PV03,Cali,5,300000
+V0041,P041,Shampoo 400ml,Importaciones Paisa,2026-10-24,6,40000,WhatsApp,Belleza,50,36190.48,PV02,Medellín,2,240000
+V0114,P020,Organizador plástico,Hogar y Más,2026-10-23,2,28000,WhatsApp,Hogar,104.58,28000,PV05,Barranquilla,6,56000
+V0129,P045,Perfume 100ml,Importaciones Paisa,2026-09-19,5,98000,WhatsApp,Belleza,130,98000,PV02,Medellín,2,490000
+V0039,P047,Desodorante,Importaciones Paisa,2026-10-27,6,9500,Instagram,Belleza,134,9500,PV02,Medellín,2,57000
+V0043,P039,Galletas surtidas,Importaciones Paisa,2026-09-21,4,7000,Tienda,Alimentos,174,7000,PV02,Medellín,2,28000
+V0032,P010,Resma de papel carta,Papelería Central,2026-10-11,2,18500,Web,Papelería,121,18500,PV04,Bogotá,4,37000
+V0093,P043,Protector solar,Importaciones Paisa,2026-09-07,2,38000,Instagram,Belleza,54,38000,PV02,Medellín,2,76000
+V0118,P002,Cargador USB-C,TecnoSur,2026-09-08,3,32000,WhatsApp,Tecnología,179,32000,PV03,Cali,5,96000
+V0122,P025,Balón de fútbol,Deportes Express,2026-10-28,5,75000,WhatsApp,Deportes,191,75000,PV06,Bogotá,3,375000
+V0146,P004,Teclado básico,TecnoSur,2026-10-06,2,60000,Tienda,Tecnología,14,60000,PV03,Cali,5,120000
+V0059,P016,Block de notas adhesivas,Papelería Central,2026-10-21,4,5500,Web,Papelería,151,5500,PV04,Bogotá,4,22000
+V0073,P030,Pesas 5kg par,Deportes Express,2026-09-19,4,90000,Web,Deportes,21,90000,PV06,Bogotá,3,360000
+V0054,P038,Pasta x500g,Distribuidora Andina,2026-10-06,2,4500,WhatsApp,Alimentos,189,4500,PV01,Medellín,3,9000
+V0145,P012,Marcadores x6,Papelería Central,2026-10-22,6,14000,Web,Papelería,87,14000,PV04,Bogotá,4,84000
+V0110,P027,Botilla deportiva,Deportes Express,2026-10-22,6,20000,WhatsApp,Deportes,20,20000,PV06,Bogotá,3,120000
+V0005,P006,Parlante portátil,TecnoSur,2026-09-14,2,95000,Tienda,Tecnología,71,95000,PV03,Cali,5,190000
+V0133,P019,Lámpara de mesa,Hogar y Más,2026-09-14,4,42000,Instagram,Hogar,52,42000,PV05,Barranquilla,6,168000
+V0013,P025,Balón de fútbol,Deportes Express,2026-09-06,5,75000,Instagram,Deportes,191,75000,PV06,Bogotá,3,375000
+V0015,P003,Mouse inalámbrico,TecnoSur,2026-10-13,2,45000,Instagram,Tecnología,92,45000,PV03,Cali,5,90000
+V0025,P037,Aceite 1L,Distribuidora Andina,2026-10-27,6,13500,Instagram,Alimentos,104.58,13500,PV01,Medellín,3,81000
+V0084,P016,Block de notas adhesivas,Papelería Central,2026-09-17,4,5500,WhatsApp,Papelería,151,5500,PV04,Bogotá,4,22000
+V0150,P029,Colchoneta yoga,Deportes Express,2026-09-17,2,55000,Instagram,Deportes,57,55000,PV06,Bogotá,3,110000
+V0009,P022,Espejo decorativo,Hogar y Más,2026-09-18,2,65000,WhatsApp,Hogar,157,65000,PV05,Barranquilla,6,130000
+V0028,P048,Labial,Importaciones Paisa,2026-10-06,5,15500,Instagram,Belleza,20,15500,PV02,Medellín,2,77500
+V0089,P023,Cojín decorativo,Hogar y Más,2026-10-27,2,10000,Instagram,Hogar,37,36190.48,PV05,Barranquilla,6,20000
+V0044,P008,Power bank 10000mAh,TecnoSur,2026-10-30,3,70000,Instagram,Tecnología,104.58,70000,PV03,Cali,5,210000
+V0074,P010,Resma de papel carta,Papelería Central,2026-09-13,3,18500,WhatsApp,Papelería,121,18500,PV04,Bogotá,4,55500
+V0071,P026,Cuerda para saltar,Deportes Express,2026-10-28,1,15000,WhatsApp,Deportes,187,15000,PV06,Bogotá,3,15000
+V0078,P004,Teclado básico,TecnoSur,2026-10-03,1,60000,WhatsApp,Tecnología,14,60000,PV03,Cali,5,60000
+V0085,P043,Protector solar,Importaciones Paisa,2026-10-12,3,38000,Web,Belleza,54,38000,PV02,Medellín,2,114000
+V0023,P015,Pegante en barra,Papelería Central,2026-10-23,1,3000,Instagram,Papelería,103,3000,PV04,Bogotá,4,3000
+V0018,P011,Caja de lapiceros x12,Papelería Central,2026-09-24,3,12000,WhatsApp,Papelería,74,12000,PV04,Bogotá,4,36000
+V0126,P040,Snacks variados,Importaciones Paisa,2026-09-21,6,5500,Tienda,Alimentos,189,5500,PV02,Medellín,2,33000
+V0069,P006,Parlante portátil,TecnoSur,2026-10-30,2,95000,WhatsApp,Tecnología,71,95000,PV03,Cali,5,190000
+V0024,P026,Cuerda para saltar,Deportes Express,2026-09-18,1,15000,WhatsApp,Deportes,187,15000,PV06,Bogotá,3,15000
+V0137,P006,Parlante portátil,TecnoSur,2026-10-23,2,95000,Instagram,Tecnología,71,95000,PV03,Cali,5,190000
+V0138,P015,Pegante en barra,Papelería Central,2026-10-22,2,3000,WhatsApp,Papelería,103,3000,PV04,Bogotá,4,6000
+V0087,P030,Pesas 5kg par,Deportes Express,2026-10-10,5,90000,Tienda,Deportes,21,90000,PV06,Bogotá,3,450000
+V0058,P014,Calculadora científica,Papelería Central,2026-10-17,5,25000,Web,Papelería,99,36190.48,PV04,Bogotá,4,125000
+V0046,P006,Parlante portátil,TecnoSur,2026-10-17,4,95000,Tienda,Tecnología,71,95000,PV03,Cali,5,380000
+V0036,P044,Jabón líquido,Importaciones Paisa,2026-10-27,5,12500,Instagram,Belleza,63,12500,PV02,Medellín,2,62500
+V0116,P022,Espejo decorativo,Hogar y Más,2026-09-18,1,65000,Instagram,Hogar,157,65000,PV05,Barranquilla,6,65000
+V0125,P024,Escoba y recogedor,Hogar y Más,2026-09-28,1,16000,Instagram,Hogar,129,16000,PV05,Barranquilla,6,16000
+V0035,P036,Arroz 5kg,Distribuidora Andina,2026-10-26,1,21000,Tienda,Alimentos,14,21000,PV01,Medellín,3,21000
+V0077,P038,Pasta x500g,Distribuidora Andina,2026-10-01,5,4500,WhatsApp,Alimentos,189,4500,PV01,Medellín,3,22500
+V0097,P033,Café molido 500g,Distribuidora Andina,2026-10-02,3,16500,Tienda,Alimentos,58,16500,PV01,Medellín,3,49500
+V0020,P039,Galletas surtidas,Importaciones Paisa,2026-10-11,2,7000,WhatsApp,Alimentos,174,7000,PV02,Medellín,2,14000
+V0099,P003,Mouse inalámbrico,TecnoSur,2026-09-01,3,45000,WhatsApp,Tecnología,92,45000,PV03,Cali,5,135000
+V0066,P012,Marcadores x6,Papelería Central,2026-09-18,4,14000,WhatsApp,Papelería,87,14000,PV04,Bogotá,4,56000
+V0083,P017,Juego de sábanas,Hogar y Más,2026-09-14,6,89000,Instagram,Hogar,130,89000,PV05,Barranquilla,6,534000
+V0011,P007,Cable HDMI,TecnoSur,2026-09-23,3,18000,Instagram,Tecnología,188,18000,PV03,Cali,5,54000
+V0012,P003,Mouse inalámbrico,TecnoSur,2026-10-17,4,45000,Tienda,Tecnología,92,45000,PV03,Cali,5,180000
+V0147,P030,Pesas 5kg par,Deportes Express,2026-09-09,4,90000,Instagram,Deportes,21,90000,PV06,Bogotá,3,360000
+V0141,P027,Botilla deportiva,Deportes Express,2026-10-27,6,20000,WhatsApp,Deportes,20,20000,PV06,Bogotá,3,120000
+V0088,P005,Memoria USB 64GB,TecnoSur,2026-10-03,3,25000,WhatsApp,Tecnología,106,36190.48,PV03,Cali,5,75000
+V0010,P022,Espejo decorativo,Hogar y Más,2026-09-07,1,65000,Web,Hogar,157,65000,PV05,Barranquilla,6,65000
+V0144,P007,Cable HDMI,TecnoSur,2026-10-20,4,18000,WhatsApp,Tecnología,188,18000,PV03,Cali,5,72000
+V0135,P033,Café molido 500g,Distribuidora Andina,2026-10-01,6,16500,WhatsApp,Alimentos,58,16500,PV01,Medellín,3,99000
+V0030,P024,Escoba y recogedor,Hogar y Más,2026-09-15,2,16000,Web,Hogar,129,16000,PV05,Barranquilla,6,32000
+V0040,P033,Café molido 500g,Distribuidora Andina,2026-10-19,2,16500,Tienda,Alimentos,58,16500,PV01,Medellín,3,33000
+V0136,P043,Protector solar,Importaciones Paisa,2026-09-06,3,38000,Instagram,Belleza,54,38000,PV02,Medellín,2,114000
+V0123,P017,Juego de sábanas,Hogar y Más,2026-09-03,6,89000,Web,Hogar,130,89000,PV05,Barranquilla,6,534000
+V0119,P038,Pasta x500g,Distribuidora Andina,2026-09-17,1,4500,Tienda,Alimentos,189,4500,PV01,Medellín,3,4500
+V0104,P028,Guantes de gimnasio,Deportes Express,2026-09-09,1,30000,Instagram,Deportes,160,30000,PV06,Bogotá,3,30000
+V0060,P013,Carpeta oficio,Papelería Central,2026-09-07,1,3500,Web,Papelería,116,3500,PV04,Bogotá,4,3500
+V0090,P019,Lámpara de mesa,Hogar y Más,2026-09-11,4,42000,Instagram,Hogar,52,42000,PV05,Barranquilla,6,168000
+V0045,P016,Block de notas adhesivas,Papelería Central,2026-09-04,2,5500,Tienda,Papelería,151,5500,PV04,Bogotá,4,11000
+V0037,P042,Crema corporal,Importaciones Paisa,2026-09-22,1,24000,Instagram,Belleza,107,24000,PV02,Medellín,2,24000
+V0004,P038,Pasta x500g,Distribuidora Andina,2026-09-28,1,4500,Tienda,Alimentos,189,4500,PV01,Medellín,3,4500
+V0142,P046,Cepillo para cabello,Importaciones Paisa,2026-10-02,4,60000,WhatsApp,Belleza,50,36190.48,PV02,Medellín,2,240000
+V0053,P015,Pegante en barra,Papelería Central,2026-09-05,3,3000,Tienda,Papelería,103,3000,PV04,Bogotá,4,9000
+V0134,P030,Pesas 5kg par,Deportes Express,2026-09-29,4,90000,WhatsApp,Deportes,21,90000,PV06,Bogotá,3,360000
+V0062,P044,Jabón líquido,Importaciones Paisa,2026-10-12,6,12500,Tienda,Belleza,63,12500,PV02,Medellín,2,75000
+V0128,P043,Protector solar,Importaciones Paisa,2026-09-27,3,38000,Web,Belleza,54,38000,PV02,Medellín,2,114000
+V0031,P006,Parlante portátil,TecnoSur,2026-10-19,1,95000,Tienda,Tecnología,71,95000,PV03,Cali,5,95000
+V0109,P027,Botilla deportiva,Deportes Express,2026-09-02,2,20000,Instagram,Deportes,20,20000,PV06,Bogotá,3,40000
+V0014,P041,Shampoo 400ml,Importaciones Paisa,2026-10-07,2,40000,Tienda,Belleza,50,36190.48,PV02,Medellín,2,80000
+V0056,P015,Pegante en barra,Papelería Central,2026-09-05,1,3000,Instagram,Papelería,103,3000,PV04,Bogotá,4,3000
+V0076,P048,Labial,Importaciones Paisa,2026-09-21,1,15500,Tienda,Belleza,20,15500,PV02,Medellín,2,15500
+V0115,P002,Cargador USB-C,TecnoSur,2026-10-13,2,32000,Web,Tecnología,179,32000,PV03,Cali,5,64000
+V0033,P039,Galletas surtidas,Importaciones Paisa,2026-09-05,4,7000,Web,Alimentos,174,7000,PV02,Medellín,2,28000
+V0017,P025,Balón de fútbol,Deportes Express,2026-09-18,4,75000,Instagram,Deportes,191,75000,PV06,Bogotá,3,300000
+V0092,P043,Protector solar,Importaciones Paisa,2026-10-23,5,38000,Instagram,Belleza,54,38000,PV02,Medellín,2,190000
+V0100,P041,Shampoo 400ml,Importaciones Paisa,2026-09-11,6,40000,Web,Belleza,50,36190.48,PV02,Medellín,2,240000
+V0101,P036,Arroz 5kg,Distribuidora Andina,2026-10-16,4,21000,Tienda,Alimentos,14,21000,PV01,Medellín,3,84000
+V0075,P004,Teclado básico,TecnoSur,2026-10-08,6,60000,Tienda,Tecnología,14,60000,PV03,Cali,5,360000
+V0086,P021,Toalla de baño,Hogar y Más,2026-10-30,1,35000,Tienda,Hogar,87,35000,PV05,Barranquilla,6,35000
+V0002,P016,Block de notas adhesivas,Papelería Central,2026-09-15,2,5500,Tienda,Papelería,151,5500,PV04,Bogotá,4,11000
+V0047,P035,Panela x10,Distribuidora Andina,2026-10-20,2,12000,WhatsApp,Alimentos,187,12000,PV01,Medellín,3,24000
+V0113,P015,Pegante en barra,Papelería Central,2026-09-13,4,3000,Instagram,Papelería,103,3000,PV04,Bogotá,4,12000
+V0072,P025,Balón de fútbol,Deportes Express,2026-09-01,4,75000,Instagram,Deportes,191,75000,PV06,Bogotá,3,300000
+V0112,P025,Balón de fútbol,Deportes Express,2026-10-26,1,75000,Web,Deportes,191,75000,PV06,Bogotá,3,75000
+V0057,P005,Memoria USB 64GB,TecnoSur,2026-09-18,6,25000,Web,Tecnología,106,36190.48,PV03,Cali,5,150000
+V0127,P047,Desodorante,Importaciones Paisa,2026-10-28,3,9500,Instagram,Belleza,134,9500,PV02,Medellín,2,28500
+V0064,P007,Cable HDMI,TecnoSur,2026-09-16,2,18000,WhatsApp,Tecnología,188,18000,PV03,Cali,5,36000
+V0106,P014,Calculadora científica,Papelería Central,2026-10-13,1,25000,Instagram,Papelería,99,36190.48,PV04,Bogotá,4,25000
+V0065,P035,Panela x10,Distribuidora Andina,2026-09-29,2,12000,Web,Alimentos,187,12000,PV01,Medellín,3,24000
+V0102,P008,Power bank 10000mAh,TecnoSur,2026-09-05,6,70000,WhatsApp,Tecnología,104.58,70000,PV03,Cali,5,420000
+V0055,P001,Audífonos Bluetooth,TecnoSur,2026-09-05,6,85000,Tienda,Tecnología,102,85000,PV03,Cali,5,510000
+V0029,P048,Labial,Importaciones Paisa,2026-10-08,4,15500,Web,Belleza,20,15500,PV02,Medellín,2,62000
+V0117,P023,Cojín decorativo,Hogar y Más,2026-10-14,5,60000,Instagram,Hogar,37,36190.48,PV05,Barranquilla,6,300000
+V0079,P005,Memoria USB 64GB,TecnoSur,2026-10-14,2,10000,Web,Tecnología,106,36190.48,PV03,Cali,5,20000
+V0026,P014,Calculadora científica,Papelería Central,2026-09-26,6,60000,Web,Papelería,99,36190.48,PV04,Bogotá,4,360000
+V0050,P014,Calculadora científica,Papelería Central,2026-10-16,3,25000,Web,Papelería,99,36190.48,PV04,Bogotá,4,75000
+V0095,P018,Set de ollas x5,Hogar y Más,2026-09-19,5,180000,WhatsApp,Hogar,149,180000,PV05,Barranquilla,6,900000
+V0021,P011,Caja de lapiceros x12,Papelería Central,2026-09-30,4,12000,Instagram,Papelería,74,12000,PV04,Bogotá,4,48000
+V0038,P028,Guantes de gimnasio,Deportes Express,2026-09-11,4,30000,Tienda,Deportes,160,30000,PV06,Bogotá,3,120000
+V0049,P017,Juego de sábanas,Hogar y Más,2026-10-04,5,89000,Web,Hogar,130,89000,PV05,Barranquilla,6,445000
+V0080,P008,Power bank 10000mAh,TecnoSur,2026-10-31,5,70000,WhatsApp,Tecnología,104.58,70000,PV03,Cali,5,350000
+V0124,P001,Audífonos Bluetooth,TecnoSur,2026-10-04,5,85000,WhatsApp,Tecnología,102,85000,PV03,Cali,5,425000
+V0008,P001,Audífonos Bluetooth,TecnoSur,2026-10-19,2,85000,Web,Tecnología,102,85000,PV03,Cali,5,170000
+V0131,P044,Jabón líquido,Importaciones Paisa,2026-10-18,2,12500,Instagram,Belleza,63,12500,PV02,Medellín,2,25000
+V0098,P006,Parlante portátil,TecnoSur,2026-10-11,4,95000,Instagram,Tecnología,71,95000,PV03,Cali,5,380000
+V0111,P018,Set de ollas x5,Hogar y Más,2026-09-11,6,180000,Tienda,Hogar,149,180000,PV05,Barranquilla,6,1.08e+06
+V0105,P024,Escoba y recogedor,Hogar y Más,2026-10-28,1,16000,Instagram,Hogar,129,16000,PV05,Barranquilla,6,16000
+V0070,P027,Botilla deportiva,Deportes Express,2026-10-02,4,20000,WhatsApp,Deportes,20,20000,PV06,Bogotá,3,80000
+V0091,P040,Snacks variados,Importaciones Paisa,2026-10-22,6,5500,Tienda,Alimentos,189,5500,PV02,Medellín,2,33000
+V0130,P013,Carpeta oficio,Papelería Central,2026-09-27,6,3500,Web,Papelería,116,3500,PV04,Bogotá,4,21000
+V0061,P023,Cojín decorativo,Hogar y Más,2026-09-27,4,60000,Tienda,Hogar,37,36190.48,PV05,Barranquilla,6,240000
+V0003,P044,Jabón líquido,Importaciones Paisa,2026-10-18,5,12500,Tienda,Belleza,63,12500,PV02,Medellín,2,62500
+V0067,P005,Memoria USB 64GB,TecnoSur,2026-10-22,5,60000,Tienda,Tecnología,106,36190.48,PV03,Cali,5,300000
+V0082,P027,Botilla deportiva,Deportes Express,2026-10-13,5,20000,Instagram,Deportes,20,20000,PV06,Bogotá,3,100000
+V0027,P010,Resma de papel carta,Papelería Central,2026-09-17,2,18500,WhatsApp,Papelería,121,18500,PV04,Bogotá,4,37000
+V0143,P010,Resma de papel carta,Papelería Central,2026-10-12,6,18500,Tienda,Papelería,121,18500,PV04,Bogotá,4,111000
+V0094,P008,Power bank 10000mAh,TecnoSur,2026-10-27,1,70000,WhatsApp,Tecnología,104.58,70000,PV03,Cali,5,70000
+V0120,P039,Galletas surtidas,Importaciones Paisa,2026-09-28,3,7000,Instagram,Alimentos,174,7000,PV02,Medellín,2,21000
+V0139,P002,Cargador USB-C,TecnoSur,2026-09-03,2,32000,Web,Tecnología,179,32000,PV03,Cali,5,64000
+V0108,P016,Block de notas adhesivas,Papelería Central,2026-10-26,2,5500,WhatsApp,Papelería,151,5500,PV04,Bogotá,4,11000
+V0148,P029,Colchoneta yoga,Deportes Express,2026-10-10,6,55000,Web,Deportes,57,55000,PV06,Bogotá,3,330000
+V0022,P041,Shampoo 400ml,Importaciones Paisa,2026-10-14,3,25000,Tienda,Belleza,50,36190.48,PV02,Medellín,2,75000
+V0001,P041,Shampoo 400ml,Importaciones Paisa,2026-09-02,6,10000,Instagram,Belleza,50,36190.48,PV02,Medellín,2,60000
+V0132,P026,Cuerda para saltar,Deportes Express,2026-10-06,1,15000,Instagram,Deportes,187,15000,PV06,Bogotá,3,15000
+V0051,P043,Protector solar,Importaciones Paisa,2026-10-12,3,38000,Web,Belleza,54,38000,PV02,Medellín,2,114000
+V0107,P036,Arroz 5kg,Distribuidora Andina,2026-10-27,4,21000,WhatsApp,Alimentos,14,21000,PV01,Medellín,3,84000
