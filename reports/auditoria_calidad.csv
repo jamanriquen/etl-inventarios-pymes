@@ -1,0 +1,7 @@
+tabla,etapa,filas,nulos,duplicados_exactos,llaves_repetidas,detalle_nulos
+inventario,antes,53,9,5,5,stock=3; precio_lista=6
+inventario,después,48,0,0,0,-
+proveedores,antes,6,0,0,0,-
+proveedores,después,6,0,0,0,-
+ventas,antes,156,8,6,6,precio_venta=8
+ventas,después,142,0,0,0,-

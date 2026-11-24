@@ -1,0 +1,32 @@
+2026-11-23 20:29:54 | INFO    | Inicio del ETL | fuente: data/raw
+2026-11-23 20:29:54 | INFO    | Extracción  | ventas      |  156 filas leídas de data/raw/ventas.csv
+2026-11-23 20:29:54 | INFO    | Extracción  | inventario  |   53 filas leídas de data/raw/inventario.csv
+2026-11-23 20:29:54 | INFO    | Extracción  | proveedores |    6 filas leídas de data/raw/proveedores.csv
+2026-11-23 20:29:54 | INFO    | R1          | ventas      |    6 registros: duplicado exacto
+2026-11-23 20:29:54 | INFO    | R1          | inventario  |    5 registros: duplicado exacto
+2026-11-23 20:29:54 | INFO    | R1          | proveedores |    0 registros: duplicado exacto
+2026-11-23 20:29:54 | INFO    | R1          | ventas      |    0 registros: id_venta repetido con datos distintos
+2026-11-23 20:29:54 | INFO    | R1          | inventario  |    0 registros: id_producto repetido con datos distintos
+2026-11-23 20:29:54 | INFO    | R2          | ventas      |    8 registros: venta sin precio
+2026-11-23 20:29:54 | INFO    | R2          | ventas      |    0 registros: cantidad, precio o fecha inválidos
+2026-11-23 20:29:54 | INFO    | R3          | categoria   |    3 valores normalizados
+2026-11-23 20:29:54 | INFO    | R4          | stock       |    3 nulos imputados con el promedio (104.58)
+2026-11-23 20:29:54 | INFO    | R4          | precio_lista |    6 nulos imputados con el promedio (36,190.48)
+2026-11-23 20:29:54 | INFO    | R4          | inventario  |    0 registros: stock negativo
+2026-11-23 20:29:54 | INFO    | R5          | ventas      |    0 registros: producto no existe en el catálogo
+2026-11-23 20:29:54 | INFO    | R5          | inventario  |    0 registros: proveedor no existe
+2026-11-23 20:29:54 | INFO    | Carga       | fact_ventas         |  142 filas -> mart/fact_ventas.csv
+2026-11-23 20:29:54 | INFO    | Carga       | dim_producto        |   48 filas -> mart/dim_producto.csv
+2026-11-23 20:29:54 | INFO    | Carga       | dim_proveedor       |    6 filas -> mart/dim_proveedor.csv
+2026-11-23 20:29:54 | INFO    | Carga       | dim_canal           |    4 filas -> mart/dim_canal.csv
+2026-11-23 20:29:54 | INFO    | Carga       | dim_fecha           |   61 filas -> mart/dim_fecha.csv
+2026-11-23 20:29:54 | INFO    | Carga       | ventas_consolidadas |  142 filas -> mart/ventas_consolidadas.csv
+2026-11-23 20:29:54 | INFO    | Validación  | data mart sin nulos ni llaves huérfanas
+2026-11-23 20:29:54 | INFO    | Rechazados  | 19 registros en cuarentena (data/rechazados/registros_rechazados.csv)
+2026-11-23 20:29:54 | INFO    | Calidad     | inventario  | antes   | filas=  53 nulos=  9 duplicados=  5
+2026-11-23 20:29:54 | INFO    | Calidad     | inventario  | después | filas=  48 nulos=  0 duplicados=  0
+2026-11-23 20:29:54 | INFO    | Calidad     | proveedores | antes   | filas=   6 nulos=  0 duplicados=  0
+2026-11-23 20:29:54 | INFO    | Calidad     | proveedores | después | filas=   6 nulos=  0 duplicados=  0
+2026-11-23 20:29:54 | INFO    | Calidad     | ventas      | antes   | filas= 156 nulos=  8 duplicados=  6
+2026-11-23 20:29:54 | INFO    | Calidad     | ventas      | después | filas= 142 nulos=  0 duplicados=  0
+2026-11-23 20:29:54 | INFO    | Fin del ETL sin errores en 0.07 s
