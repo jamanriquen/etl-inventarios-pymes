@@ -20,7 +20,7 @@ Variedades Aurora vende por Instagram, WhatsApp, su página web y su tienda fís
 
 Las carpetas `data/staging/`, `data/mart/`, `data/rechazados/` y `reports/` se regeneran en cada ejecución a partir de los datos de landing.
 
-El mismo proceso está construido en Orange Data Mining en `orange/`. Orange lee los CSV directamente desde este repositorio.
+El mismo proceso está construido en Orange Data Mining en `ETL_Variedades_Aurora.ows`. Orange lee los CSV directamente desde este repositorio y guarda el resultado en `data/mart/data_mart_orange.csv`.
 
 ## Resultado
 
